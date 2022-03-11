@@ -1,0 +1,59 @@
+* {
+  /* border: 1px solid red; */
+}
+
+html {
+  font-family: monospace;
+  font-size: 20px;
+}
+
+body {
+  font-size: 12px;
+  /* border: 3px solid black; */
+}
+
+main {
+  font-family: "Times New Roman", Times, serif;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+h1,
+h2 {
+  color: blue;
+}
+
+p {
+  /* color: purple !important; */
+  color: purple;
+}
+
+p {
+  color: red;
+}
+
+/* css cho cac the span nam trong the p */
+p span {
+  text-transform: uppercase;
+  background-color: gold;
+}
+
+/* css for class, start with a period befor */
+.gray {
+  color: gray;
+}
+
+.hightlight {
+  text-transform: uppercase;
+  background-color: gold;
+}
+
+/* css for id */
+#second {
+  font-style: italic;
+}
