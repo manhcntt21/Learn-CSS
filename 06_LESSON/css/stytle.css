@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@300&display=swap");
+
+body {
+  padding: 10%;
+  font-size: 2rem;
+  color: purple;
+}
+
+/* input,
+button {
+  font-size: inherit;
+} */
+p {
+  line-height: 1.5;
+  font-family: "Smooch Sans", sans-serif;
+}
